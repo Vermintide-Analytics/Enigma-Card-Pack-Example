@@ -1,0 +1,11 @@
+mod = [
+	"Enigma Card Pack Example"
+]
+
+package = [
+	"resource_packages/Enigma Card Pack Example/Enigma Card Pack Example"
+]
+
+lua = [
+	"scripts/mods/Enigma Card Pack Example/*"
+]
